@@ -5,16 +5,21 @@ import tom
 import nikola
 import jelle
 
-_TEAM_NAME: str = "Eldinfanclub"
+_TEAM_NAME: str = "Eldin fanclub"
 
 def get_team() -> None:
-  print(f"This is Team {_TEAM_NAME}. We are:")
-  print(philip.get_name())
-  print(justus.get_name())
-  print(Twan.get_name())
-  print(tom.get_name())
-  print(nikola.get_name())
-  print(jelle.get_name())
+  print("-*-*-*-*-*-*-*-*-*-*-*-*-*-*-")
+  print(f"This is Team '{_TEAM_NAME}'. We are:")
+
+  for member in [philip, justus, Twan, tom, nikola, jelle]:
+    print(f"- {member.get_name()}")
+
+  print("")
+  print("Story:")
+  for i in range(1, 4):
+    for member in [philip, justus, Twan, tom, nikola, jelle]:
+      print(f"- {member.get_paragraph(i)}")
+  print("-*-*-*-*-*-*-*-*-*-*-*-*-*-*-")
 
 
 get_team()
