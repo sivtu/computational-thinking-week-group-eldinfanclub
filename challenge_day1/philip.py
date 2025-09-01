@@ -5,10 +5,10 @@ def get_name() -> str:
 
 def get_paragraph(paragraph: int) -> str:
   if paragraph == 1: 
-    return "Marcus stood at the edge of the ancient forest, watching as Eldin emerged from the shadows with a mysterious map. Justus pointed toward the distant mountains while Twan checked his compass, and Tom adjusted his backpack nervously. Nikola whispered something urgent to Jelle about the legends they'd heard in the villa."
+    return "Lyra was the first to spot the strange glow rising from the forest’s edge. It flickered like a lantern, but pulsed too rhythmically to be man-made. She tightened her cloak, feeling a chill creep through the night ai."
   elif paragraph == 2: 
-    return "Deep within the cavern, Marcus held the torch high as Eldin deciphered the ancient runes carved into the stone walls. Justus discovered a hidden passage while Twan found strange symbols etched into the ground, and Tom noticed the air growing colder with each step. Nikola and Jelle exchanged worried glances as mysterious sounds echoed from the depths ahea."
+    return "Curiosity always outweighed fear for Lyra. She stepped closer, listening to the whispers of leaves under her boots. Every sound felt amplified, like the forest itself was aware of her prese."
   elif paragraph == 3: 
-    return "As dawn broke over the mountain peak, Marcus raised the golden artifact triumphantly while Eldin smiled with satisfaction at their successful quest. Justus cheered loudly as Twan documented their discovery, and Tom finally relaxed for the first time in days. Nikola and Jelle began planning their journey home, knowing they had changed the course of history forev."
+    return "When she reached the clearing, she gasped. In the center stood a crystalline orb, floating above the ground. Its glow shifted colors like a heartbe."
   else: 
     return "Paragraph not found."
