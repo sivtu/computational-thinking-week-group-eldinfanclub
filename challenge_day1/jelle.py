@@ -9,7 +9,7 @@ def get_paragraph(paragraph: int) -> str:
     elif paragraph == 2: 
         return "They told her to go to the forest. They told her the others would be there. For the first time, the voices did not sound like a curse, but a guide."
     elif paragraph == 3: 
-        return "When she enterd the clearing, the orb’s glow bent slightly toward her, as if recognizing her presence. She shivered but stood tall."
+        return "When she entered the clearing, the orb’s glow bent slightly toward her, as if recognizing her presence. She shivered but stood tall."
     else: 
         return "Paragraph not found."
 
