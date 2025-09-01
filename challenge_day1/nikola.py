@@ -9,6 +9,6 @@ def get_paragraph(paragraph: int) -> str:
   elif paragraph == 2: 
     return "Startled, Seren dropped the basket she was carrying. Apples rolled across the cobblestones, but she barely noticed. The pull toward the woods was undeniable."
   elif paragraph == 3: 
-    return "She left everythang behind and ran, guided not by sight but by instinct. Whatever was happening, she was part of it now."
+    return "She left everything behind and ran, guided not by sight but by instinct. Whatever was happening, she was part of it now."
   else: 
     return "Paragraph not found."
