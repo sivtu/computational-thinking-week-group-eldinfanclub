@@ -1,7 +1,7 @@
 import philip
 import justus
 
-_TEAM_NAME: str = "Philip"
+_TEAM_NAME: str = "Eldinfanclub"
 
 def get_team() -> None:
   print(f"This is Team {_TEAM_NAME}. We are:")
