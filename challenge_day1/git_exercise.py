@@ -3,6 +3,7 @@ import justus
 import Twan
 import tom
 import nikola
+import jelle
 
 _TEAM_NAME: str = "Eldinfanclub"
 
@@ -13,6 +14,7 @@ def get_team() -> None:
   print(Twan.get_name())
   print(tom.get_name())
   print(nikola.get_name())
+  print(jelle.get_name())
 
 
 get_team()
