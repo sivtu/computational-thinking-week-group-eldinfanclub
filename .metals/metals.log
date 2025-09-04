@@ -85,3 +85,4 @@ WARNING: Unmatched cancel notification for request id 1
 2025.09.04 11:46:03 INFO  BSP server: /opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar: /opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar: cannot execute binary file
 2025.09.04 11:46:24 WARN  no build target for: /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala
 2025.09.04 11:46:24 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:46:30 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
