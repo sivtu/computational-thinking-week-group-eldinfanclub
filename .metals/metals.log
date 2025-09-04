@@ -1,0 +1,87 @@
+2025.09.04 11:44:01 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:02 INFO  Running List(/opt/homebrew/bin/scala, setup-ide, /Users/justus/Desktop/robot-camp-group)
+2025.09.04 11:44:02 INFO  Scala CLI: WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+2025.09.04 11:44:02 INFO  Scala CLI: WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.LazyVals$ (file:/opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar)
+2025.09.04 11:44:02 INFO  Scala CLI: WARNING: Please consider reporting this to the maintainers of class scala.runtime.LazyVals$
+2025.09.04 11:44:02 INFO  Scala CLI: WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+2025.09.04 11:44:03 INFO  Attempting to connect to the build server...
+2025.09.04 11:44:03 INFO  Running BSP server List(/opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar, --cli-default-scala-version, 3.7.2, --repository, file:///opt/homebrew/Cellar/scala/3.7.2/libexec/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/justus/Desktop/robot-camp-group/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/justus/Desktop/robot-camp-group/.scala-build/ide-launcher-options.json, --envs-file, /Users/justus/Desktop/robot-camp-group/.scala-build/ide-envs.json, /Users/justus/Desktop/robot-camp-group)
+2025.09.04 11:44:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/justus/Desktop/robot-camp-group/.metals/bsp.trace.json or /Users/justus/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.09.04 11:44:03 INFO  BSP server: /opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar: /opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar: cannot execute binary file
+Sep 04, 2025 11:44:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.09.04 11:44:06 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:10 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:10 WARN  no build target for: /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala
+2025.09.04 11:44:10 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:10 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:10 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:12 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:17 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:17 WARN  no build target for: /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala
+2025.09.04 11:44:17 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:17 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:23 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:23 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:44:23 WARN  no build target for: /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala
+2025.09.04 11:44:23 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:01 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:02 WARN  no build target for: /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala
+2025.09.04 11:45:02 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:02 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:03 ERROR Timeout waiting for 'build/initialize' response
+2025.09.04 11:45:03 WARN  Retrying connection to the build server scala
+2025.09.04 11:45:03 INFO  Running BSP server List(/opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar, --cli-default-scala-version, 3.7.2, --repository, file:///opt/homebrew/Cellar/scala/3.7.2/libexec/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/justus/Desktop/robot-camp-group/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/justus/Desktop/robot-camp-group/.scala-build/ide-launcher-options.json, --envs-file, /Users/justus/Desktop/robot-camp-group/.scala-build/ide-envs.json, /Users/justus/Desktop/robot-camp-group)
+2025.09.04 11:45:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/justus/Desktop/robot-camp-group/.metals/bsp.trace.json or /Users/justus/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.09.04 11:45:03 INFO  BSP server: /opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar: /opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar: cannot execute binary file
+2025.09.04 11:45:09 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:21 WARN  no build target for: /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala
+2025.09.04 11:45:21 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:22 WARN  no build target for: /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala
+2025.09.04 11:45:22 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:50 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:50 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:51 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:51 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:51 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:52 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:52 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:52 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:52 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:52 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:52 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:53 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:52 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:52 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:53 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:53 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:53 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:53 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:53 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:53 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:53 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:53 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:54 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:53 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:53 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:54 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:54 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:54 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:54 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:55 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:55 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:57 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:57 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:58 WARN  no build target for: /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala
+2025.09.04 11:45:58 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:45:58 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:46:00 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:46:02 WARN  no build target for: /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala
+2025.09.04 11:46:02 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 11:46:03 ERROR Timeout waiting for 'build/initialize' response
+2025.09.04 11:46:03 WARN  Retrying connection to the build server scala
+2025.09.04 11:46:03 INFO  Running BSP server List(/opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar, --cli-default-scala-version, 3.7.2, --repository, file:///opt/homebrew/Cellar/scala/3.7.2/libexec/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/justus/Desktop/robot-camp-group/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/justus/Desktop/robot-camp-group/.scala-build/ide-launcher-options.json, --envs-file, /Users/justus/Desktop/robot-camp-group/.scala-build/ide-envs.json, /Users/justus/Desktop/robot-camp-group)
+2025.09.04 11:46:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/justus/Desktop/robot-camp-group/.metals/bsp.trace.json or /Users/justus/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.09.04 11:46:03 INFO  BSP server: /opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar: /opt/homebrew/Cellar/scala/3.7.2/libexec/libexec/scala-cli.jar: cannot execute binary file
+2025.09.04 11:46:24 WARN  no build target for: /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala
+2025.09.04 11:46:24 INFO  no build target found for /Users/justus/Desktop/robot-camp-group/challenge_day4/scala_step6/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
